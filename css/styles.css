@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+#title{
+    background-color: #ff4c68;
+}
+
+.navbar{
+    padding-bottom: 10vh;
+}
+
+li{
+    padding: 0 1.5vw;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.container-fluid{
+    padding: 3vw 15vw 10vw;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    padding-bottom: 10vh;
+}
+
+.phone-dog{
+    height: 80vh;
+    padding-left: 5vw;
+    transform: rotate(25deg);
+}
+
+.btn{
+    margin-right: 1vw;
+    margin-bottom: 2rem;
+}
+
+#features{
+    padding: 8rem 12rem 5rem 10rem;
+    background-color: #fff;
+}
+
+#features p{
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #8f8f8f;
+    padding: 4%;
+}
+
+#features h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.fet-icon:hover{
+    color: #ff4c68;
+}
+
+#features .col-lg-4{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.fet-icon{
+    color: #ef8172;
+    margin-bottom: 2rem;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+}
+
+#testimonials h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1.5;
+    padding: 0 5rem;
+}
+
+.carousel-item{
+    padding: 5rem 12rem;
+}
+
+.test-image{
+    width: 20%;
+    border-radius: 100%;
+    padding-right: 1rem;
+    margin: 7vh 0;
+}
+
+#press{
+    background-color: #ff4c68;
+    padding-bottom: 5rem;
+    text-align: center;
+}
+
+.press-image{
+    width: 15%;
+    margin: 0 2rem;
+}
+
+.card{
+    text-align: center;
+}
+
+#pricing{
+    margin: 5rem;
+}
+
+#pricing h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#pricing p{
+    font-family: 'Montserrat', sans-serif;   
+}
+
+.card h3{
+    font-weight: 600;
+}
+
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+    padding: 5rem 12rem;
+}
+
+#cta h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    padding: 5vw 7vw;
+}
+
+#footer{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer p{
+    padding: 1rem;
+}
+
+.links-social{
+    padding-top: 3rem;
+
+}
+
+.links-social i{
+    padding: 0.75rem;
+}
